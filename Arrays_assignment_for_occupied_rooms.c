@@ -1,6 +1,6 @@
 /*
-Name:Samuel Munyua Gicheru
-Reg:CT100/G/26198/25
+Name:Mary Kimilu 
+Reg:CT100/G/26271/25
 Description:To_calculate_number_of_occupied_rooms
 */
 
@@ -41,3 +41,4 @@ int main() {
 
     return 0;
 }
+
