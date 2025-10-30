@@ -1,7 +1,7 @@
 //3D arrays
 /*
-Name:Samuel munyua Gicheru
-Reg:CT100/G/26198/25
+Name:Mary Kimilu 
+Reg:CT100/G/26271/25
 Description:3D_array_chain_assignment
 */
 
@@ -86,3 +86,4 @@ int main() {
 
     return 0;
 }
+
